@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|solutionrelative:views\\shared\\_qdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|d:\\netcoreleaning\\day3\\views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|solutionrelative:views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|d:\\netcoreleaning\\day3\\views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|solutionrelative:views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|d:\\netcoreleaning\\day3\\views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|solutionrelative:views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CA697D6-775A-4D40-9726-59AD74F517CF}|day3.csproj|d:\\netcoreleaning\\day3\\views\\qdhhome\\qdhprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -56,14 +56,14 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_QdhLayout.cshtml",
               "ToolTip": "D:\\NetcoreLeaning\\day3\\Views\\Shared\\_QdhLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_QdhLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-12T01:38:47.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "QdhIndex.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day3\\Views\\QdhHome\\QdhIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\QdhHome\\QdhIndex.cshtml",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QdhAbout.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day3\\Views\\QdhHome\\QdhAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\QdhHome\\QdhAbout.cshtml",
