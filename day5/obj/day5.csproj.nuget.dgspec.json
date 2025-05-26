@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\day5\\day5.csproj": {}
+    "D:\\NetcoreLeaning\\day5\\day5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\day5\\day5.csproj": {
+    "D:\\NetcoreLeaning\\day5\\day5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\day5\\day5.csproj",
+        "projectUniqueName": "D:\\NetcoreLeaning\\day5\\day5.csproj",
         "projectName": "day5",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\day5\\day5.csproj",
+        "projectPath": "D:\\NetcoreLeaning\\day5\\day5.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\day5\\obj\\",
+        "outputPath": "D:\\NetcoreLeaning\\day5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -42,8 +42,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:18:53.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T14:18:53.668Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:17:53.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T14:17:53.963Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Controllers\\QdhMemberController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:15:29.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T14:15:29.378Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Controllers\\QdhHomeController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAqwAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:13:16.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T14:13:16.933Z"
             }
           ]
         }
