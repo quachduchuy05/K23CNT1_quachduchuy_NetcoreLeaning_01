@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<body class="bg-light">
+
+    <div class="container mt-5">
+        <h2 class="mb-4"> Thêm mới thành viên</h2>
+        <div class="card shadow rounded">
+            <div class="card-body">
+                <form action="/QdhEmployee/QdhCreateSubmit" method="post">
+                    @* <div class="mb-3">
+                    <label for="QdhId" class="form-label">ID</label>
+                    <input type="text" class="form-control" id="QdhId" name="QdhId" />
+                    <span asp-validation-for="QdhId" class="text-danger"></span>
+                    </div> *@
+
+                    <div class="mb-3">
+                        <label asp-for="QdhName" class="form-label">Tên </label>
+                        <input asp-for="QdhName" class="form-control" />
+                        <span asp-validation-for="QdhName" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="QdhBirthDay" class="form-label">Ngày sinh</label>
+                        <input asp-for="QdhBirthDay" class="form-control" />
+                        <span asp-validation-for="QdhBirthDay" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="QdhEmail" class="form-label">Email</label>
+                        <input asp-for="QdhEmail" class="form-control" />
+                        <span asp-validation-for="QdhEmail" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="QdhPhone" class="form-label">Số điện thoại</label>
+                        <input asp-for="QdhPhone" class="form-control" />
+                        <span asp-validation-for="QdhPhone" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="QdhSalary" class="form-label">Lương</label>
+                        <input asp-for="QdhSalary" class="form-control" />
+                        <span asp-validation-for="QdhSalary" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="QdhStatus" class="form-label">Trạng thái</label>
+                        <select asp-for="QdhStatus" class="form-select">
+                            <option value="1">Đi làm</option>
+                            <option value="2">Nghỉ</option>
+                        </select>
+                        <span asp-validation-for="QdhStatus" class="text-danger"></span>
+                    </div>
+
+                    <input name="__RequestVerificationToken" type="hidden" value="" />
+
+                    <button type="submit" class="btn btn-primary">💾 Lưu</button>
+                    <a href="/QdhEmployee/QdhIndex1" class="btn btn-secondary ms-2">⬅ Quay lại</a>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\day5\\",
+  "WorkspaceRootPath": "D:\\NetcoreLeaning\\day5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|c:\\users\\asus\\source\\repos\\day5\\controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|d:\\netcoreleaning\\day5\\controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|solutionrelative:controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|c:\\users\\asus\\source\\repos\\day5\\controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|d:\\netcoreleaning\\day5\\controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|solutionrelative:controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|c:\\users\\asus\\source\\repos\\day5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|d:\\netcoreleaning\\day5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|c:\\users\\asus\\source\\repos\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|d:\\netcoreleaning\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B59AEC11-7316-4066-9996-4CCB9E893EA5}|day5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\day5\\Program.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\day5\\Program.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day5\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\day5\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day5\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\day5\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day5\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "QdhMemberController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\day5\\Controllers\\QdhMemberController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day5\\Controllers\\QdhMemberController.cs",
               "RelativeDocumentMoniker": "Controllers\\QdhMemberController.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\day5\\Controllers\\QdhMemberController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day5\\Controllers\\QdhMemberController.cs",
               "RelativeToolTip": "Controllers\\QdhMemberController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,13 +72,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QdhHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\day5\\Controllers\\QdhHomeController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day5\\Controllers\\QdhHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\QdhHomeController.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\day5\\Controllers\\QdhHomeController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day5\\Controllers\\QdhHomeController.cs",
               "RelativeToolTip": "Controllers\\QdhHomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:13:16.933Z"
+              "WhenOpened": "2025-05-22T14:13:16.933Z",
+              "EditorCaption": ""
             }
           ]
         }

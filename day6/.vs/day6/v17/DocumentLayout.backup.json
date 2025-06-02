@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\NetcoreLeaning\\day6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Controllers\\QdhEmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\QdhEmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\qdhmember\\qdhgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\qdhmember\\qdhgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Models\\QdhEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\QdhEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\QdhMember\\QdhGetMember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\QdhMember\\QdhGetMember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\models\\datamodel\\qdhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:models\\datamodel\\qdhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Controllers\\QdhMemberController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\QdhMemberController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Models\\DataModel\\QdhMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DataModel\\QdhMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\QdhHome\\QdhAbout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\QdhHome\\QdhAbout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\QdhHome\\QdhIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\QdhHome\\QdhIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\shared\\_qdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\shared\\_qdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Controllers\\QdhHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\QdhHomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|d:\\netcoreleaning\\day6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{06AFCA00-700F-4648-B2B2-8809295B5D30}|day6.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\NetcoreLeaning\\day6\\Views\\Shared\\_QdhLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_QdhLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,31 +67,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "QdhEmployee.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Models\\QdhEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\QdhEmployee.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day6\\Models\\QdhEmployee.cs",
+              "RelativeToolTip": "Models\\QdhEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:18:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QdhEmployeeController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Controllers\\QdhEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QdhEmployeeController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day6\\Controllers\\QdhEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\QdhEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:17:23.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "QdhGetMember.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Views\\QdhMember\\QdhGetMember.cshtml",
               "RelativeDocumentMoniker": "Views\\QdhMember\\QdhGetMember.cshtml",
               "ToolTip": "D:\\NetcoreLeaning\\day6\\Views\\QdhMember\\QdhGetMember.cshtml",
               "RelativeToolTip": "Views\\QdhMember\\QdhGetMember.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-26T02:40:28.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "QdhMemberController.cs",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Controllers\\QdhMemberController.cs",
               "RelativeDocumentMoniker": "Controllers\\QdhMemberController.cs",
               "ToolTip": "D:\\NetcoreLeaning\\day6\\Controllers\\QdhMemberController.cs",
               "RelativeToolTip": "Controllers\\QdhMemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:58:30.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T01:58:30.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QdhMember.cs",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Models\\DataModel\\QdhMember.cs",
               "RelativeDocumentMoniker": "Models\\DataModel\\QdhMember.cs",
@@ -107,19 +140,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "QdhAbout.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Views\\QdhHome\\QdhAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\QdhHome\\QdhAbout.cshtml",
               "ToolTip": "D:\\NetcoreLeaning\\day6\\Views\\QdhHome\\QdhAbout.cshtml",
               "RelativeToolTip": "Views\\QdhHome\\QdhAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-26T01:35:47.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "QdhIndex.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Views\\QdhHome\\QdhIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\QdhHome\\QdhIndex.cshtml",
@@ -131,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "QdhHomeController.cs",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Controllers\\QdhHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\QdhHomeController.cs",
@@ -143,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -167,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_QdhLayout.cshtml",
               "DocumentMoniker": "D:\\NetcoreLeaning\\day6\\Views\\Shared\\_QdhLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_QdhLayout.cshtml",

@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetcoreLeaning\\day7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\qdhemployee\\qdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\qdhemployee\\qdhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\qdhhome\\qdhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\qdhhome\\qdhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\models\\qdhemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:models\\qdhemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\models\\qdhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:models\\qdhmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\controllers\\qdhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:controllers\\qdhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:controllers\\qdhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:controllers\\qdhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\shared\\_qdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\shared\\_qdhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\shared\\_qdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\shared\\_qdhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|d:\\netcoreleaning\\day7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816FA349-898F-48E6-BA34-3345E77CE718}|day7.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QdhCreate.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\QdhEmployee\\QdhCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\QdhEmployee\\QdhCreate.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\QdhEmployee\\QdhCreate.cshtml",
+              "RelativeToolTip": "Views\\QdhEmployee\\QdhCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T12:55:59.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QdhHomeController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QdhHomeController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhHomeController.cs",
+              "RelativeToolTip": "Controllers\\QdhHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:34:09.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_QdhNavbar.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_QdhNavbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_QdhNavbar.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_QdhNavbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_QdhNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:39:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QdhEmployeeController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QdhEmployeeController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\QdhEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:55:50.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QdhEmployee.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Models\\QdhEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\QdhEmployee.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Models\\QdhEmployee.cs",
+              "RelativeToolTip": "Models\\QdhEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:48:31.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QdhAbout.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\QdhHome\\QdhAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\QdhHome\\QdhAbout.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\QdhHome\\QdhAbout.cshtml",
+              "RelativeToolTip": "Views\\QdhHome\\QdhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:25:04.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QdhIndex.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\QdhHome\\QdhIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\QdhHome\\QdhIndex.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\QdhHome\\QdhIndex.cshtml",
+              "RelativeToolTip": "Views\\QdhHome\\QdhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:42:50.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QdhMemberController.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QdhMemberController.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Controllers\\QdhMemberController.cs",
+              "RelativeToolTip": "Controllers\\QdhMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:41:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QdhMember.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Models\\QdhMember.cs",
+              "RelativeDocumentMoniker": "Models\\QdhMember.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Models\\QdhMember.cs",
+              "RelativeToolTip": "Models\\QdhMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:49:28.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:50:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:44:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:41:49.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:44:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_QdhLayout.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_QdhLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_QdhLayout.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_QdhLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_QdhLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:28:57.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:44:47.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetcoreLeaning\\day7\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetcoreLeaning\\day7\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:28:34.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿﻿@model Qdhday7.Models.QdhEmployee
+
+@{
+    ViewData["Title"] = "QdhDetails";
+    Layout = "~/Views/Shared/_QdhLayout.cshtml";
+}
+<h1>QdhDetails</h1>
+
+<div>
+    <h4>QdhEmployee</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhBirthDay)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhBirthDay)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhEmail)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhEmail)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhPhone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhPhone)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.QdhStatus)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.QdhStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="QdhIndex1">Back to List</a>
+</div>

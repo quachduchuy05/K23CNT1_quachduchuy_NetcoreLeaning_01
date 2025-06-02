@@ -1,0 +1,44 @@
+﻿@{
+}
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Danh sách thành viên</h2>
+        <a href="QdhCreate" class="btn btn-primary">➕ Thêm mới</a>
+    </div>
+
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>BirthDay</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Salary</th>
+                <th>Status</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var m in ViewBag.QdhEmployee)
+            {
+                <tr>
+                    <td>@m.QdhId</td>
+                    <td>@m.QdhName</td>
+                    <td>@m.QdhBirthDay.ToString("dd/MM/yyyy")</td>
+                    <td>@m.QdhPhone</td>
+                    <td>@m.QdhPhone</td>
+                    <td>@m.QdhSalary</td>
+                    <td class="@(m.QdhStatus == 1 ? "text-success" : "text-danger")">
+                        @(m.QdhStatus == 1 ? "Đi làm" : "Nghỉ")
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "QdhEdit", new { id = m.QdhId }) |
+                        @Html.ActionLink("Details", "QdhDetails", new { id = m.QdhId }) |
+                        @Html.ActionLink("Delete", "QdhDelete", new { id = m.QdhId }) |
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

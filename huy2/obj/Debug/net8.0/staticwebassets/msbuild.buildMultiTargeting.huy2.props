@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\huy2.props" />
+</Project>
