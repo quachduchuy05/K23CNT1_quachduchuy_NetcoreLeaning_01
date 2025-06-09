@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Day8.Models.QdhAccount>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ID)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhFullname)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhPhone)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhAddress)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhAvatar)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhBirthday)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhPassword)</th>
+            <th>@Html.DisplayNameFor(model => model.QdhLink)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.QdhFullname</td>
+                <td>@item.QdhEmail</td>
+                <td>@item.QdhPhone</td>
+                <td>@item.QdhAddress</td>
+                <td><img src="@item.QdhAvatar" width="50" /></td>
+                <td>@item.QdhBirthday.ToString("dd/MM/yyyy")</td>
+                <td>@item.QdhPassword</td>
+                <td><a href="@item.QdhLink" target="_blank">Facebook</a></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
