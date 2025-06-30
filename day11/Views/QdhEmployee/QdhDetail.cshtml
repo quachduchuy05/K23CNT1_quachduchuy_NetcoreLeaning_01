@@ -1,0 +1,11 @@
+﻿@model Quachduchuy_2310900045.Models.QdhEmployee
+
+<h2>Chi tiết nhân viên</h2>
+
+<p><strong>ID:</strong> @Model.qdhEmpId</p>
+<p><strong>Tên:</strong> @Model.qdhEmpName</p>
+<p><strong>Level:</strong> @Model.qdhEmpLevel</p>
+<p><strong>Ngày bắt đầu:</strong> @Model.qdhEmpStartDate.ToShortDateString()</p>
+<p><strong>Trạng thái:</strong> @(Model.qdhEmpStatus ? "Show" : "Hide")</p>
+
+<a href="/QdhEmployee/QdhIndex">Quay lại</a>

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "danh sách sinh viên ";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="QdhCreate">them moi</a>
+</p>
+<table class="table table-bordered mt-03">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(modelItem => item.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(modelItem => item.CategoryPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(modelItem => item.Adddress);
+            </th>
+            <th class="text-center">chức năng </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CategoryId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CategoryId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CategoryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+    <tfoodt>
+        <tr> 
+            <th colspan="3"> tổng số : @model.count() </th>
+            </tr>
+    </tfoodt>
+</table>

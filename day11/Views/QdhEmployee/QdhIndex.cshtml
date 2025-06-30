@@ -1,0 +1,31 @@
+﻿@model List<Quachduchuy_2310900045.Models.QdhEmployee>
+
+<h2>Danh sách nhân viên</h2>
+
+<a href="/QdhEmployee/QdhCreate">Thêm mới</a>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>ID</th>
+        <th>Tên</th>
+        <th>Level</th>
+        <th>Ngày vào</th>
+        <th>Trạng thái</th>
+        <th>Hành động</th>
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.qdhEmpId</td>
+            <td>@emp.qdhEmpName</td>
+            <td>@emp.qdhEmpLevel</td>
+            <td>@emp.qdhEmpStartDate.ToShortDateString()</td>
+            <td>@(emp.qdhEmpStatus ? "Show" : "Hide")</td>
+            <td>
+                <a href="/QdhEmployee/QdhDetail/@emp.qdhEmpId">Xem</a> |
+                <a href="/QdhEmployee/QdhEdit/@emp.qdhEmpId">Sửa</a> |
+                <a href="/QdhEmployee/QdhDelete/@emp.qdhEmpId">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

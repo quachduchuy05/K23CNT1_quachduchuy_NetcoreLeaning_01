@@ -1,0 +1,14 @@
+﻿@model Quachduchuy_2310900045.Models.QdhEmployee
+
+<h2>Thêm nhân viên mới</h2>
+
+<form asp-action="QdhCreate">
+    <label>ID:</label> <input asp-for="qdhEmpId" /><br />
+    <label>Tên:</label> <input asp-for="qdhEmpName" /><br />
+    <label>Level:</label> <input asp-for="qdhEmpLevel" /><br />
+    <label>Ngày bắt đầu:</label> <input asp-for="qdhEmpStartDate" type="date" /><br />
+    <label>Trạng thái:</label> <input asp-for="qdhEmpStatus" type="checkbox" /><br />
+    <button type="submit">Lưu</button>
+</form>
+
+<a href="/QdhEmployee/QdhIndex">Quay lại</a>

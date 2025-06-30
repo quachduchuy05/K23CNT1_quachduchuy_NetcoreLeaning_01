@@ -1,0 +1,19 @@
+﻿@model Quachduchuy_2310900045.Models.QdhEmployee
+
+<h2>Xóa nhân viên</h2>
+
+<p>Bạn có chắc chắn muốn xóa nhân viên sau không?</p>
+
+<ul>
+    <li><strong>ID:</strong> @Model.qdhEmpId</li>
+    <li><strong>Tên:</strong> @Model.qdhEmpName</li>
+    <li><strong>Level:</strong> @Model.qdhEmpLevel</li>
+    <li><strong>Ngày bắt đầu:</strong> @Model.qdhEmpStartDate.ToShortDateString()</li>
+    <li><strong>Trạng thái:</strong> @(Model.qdhEmpStatus ? "Show" : "Hide")</li>
+</ul>
+
+<form asp-action="QdhDelete">
+    <input type="hidden" asp-for="qdhEmpId" />
+    <button type="submit">Xác nhận xóa</button>
+    <a href="/QdhEmployee/QdhIndex">Hủy</a>
+</form>
